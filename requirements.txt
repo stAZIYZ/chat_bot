@@ -1,0 +1,4 @@
+dotenv==0.9.9
+Telethon==1.39.0
+requests==2.32.3
+aiohttp==3.11.11
