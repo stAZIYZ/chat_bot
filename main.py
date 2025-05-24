@@ -20,13 +20,14 @@ SESSIONS = [
 ]
 
 channels = {
-    -1001337701474: ["Zo'r", "Ha", "🧒🏿"], #inline
-    -1002460046152: ["Ha", "Zo'r", "...", "🧒🏿"], #futbolishee
+    -1001337701474: ["Zo'r", "Ha", "🧒🏿", "Siuu"], #inline
+    -1002460046152: ["Ha", "Zo'r", "Keldim", "🧒🏿", "Siuu"], #futbolishee
     -1002421347022: ["Zo'r", "Ha"], #bekorchi
-    -1002331884910: ["Zo'r", "Ha", "Uzmobile effekt", "Efuzpage nomr 1", "🧒🏿"], #efuzpage
-    -1001974475685: ["Uzmobile effekt", "Ha", "Zo'r", "🧒🏿"], #efootball
-    -1001449117896: ["ha", "🧒🏿"], #stock
-    -1001666463882: ["ha", "eng zo'r kanal"] #private cr7
+    -1002331884910: ["Zo'r", "Ha", "Efuzpage nomr 1", "🧒🏿", "Siuu"], #efuzpage
+    -1001974475685: ["Ha", "Zo'r", "🧒🏿", "Siuu"], #efootball
+    -1001449117896: ["ha", "🧒🏿", "Siuu"], #stock
+    -1001666463882: ["ha", "eng zo'r kanal", "Siuu"], #private cr7
+    -1001171062015: ["ha", "🧒🏿", "Siuu"] #aslam
 }
 
 
